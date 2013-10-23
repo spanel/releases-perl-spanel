@@ -1,2 +1,0 @@
-date:2013-01-31	repo:spanel	file:Software-License-Spanel-0.01.tar.gz	ver:0.01	size:6483
-date:2013-01-31	repo:spanel	file:Software-License-Spanel-0.02.tar.gz	ver:0.02	size:6213
